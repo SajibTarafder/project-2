@@ -110,7 +110,7 @@ body{
 }
 
 .img-section{
-background: url("/images/Images\ 2.png");
+background: url("images/Images\ 2.png");
 background-repeat: no-repeat;
 display: flex;
 }
@@ -250,7 +250,7 @@ input[type="text"], select {
     /* padding-bottom: .2rem; */
    }
    .images{
-    background: url("/images/run.jpg");
+    background: url("images/run.jpg");
     border-radius: 18px;
    margin: 3rem;
     background-size: cover;
@@ -291,30 +291,30 @@ padding: 20px;
 
 
 .img1{
-    background-image: url('/images/trainer1.png');
+    background-image: url('images/trainer1.png');
     border-radius: 18px;
 
  
 }
 .img2{
-    background-image: url('/images/trainer2.png');
+    background-image: url('images/trainer2.png');
    
 }
 .img3{
-    background-image: url('/images/trainer3.png');
+    background-image: url('images/trainer3.png');
    
     
 }
 .img4{
-    background-image: url('/images/trainer4.png');
+    background-image: url('images/trainer4.png');
     
 }
 .img5{
-    background-image: url('/images/trainer5.png');
+    background-image: url('images/trainer5.png');
    
 }
 .img6{
-    background-image: url('/images/trainer6.png');
+    background-image: url('images/trainer6.png');
     
 }
 
